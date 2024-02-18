@@ -5,8 +5,7 @@
     <link href="projectIndex1.css" rel="stylesheet">
   </head>
 
-  <body>
-    
+  <body>    
     <h1>Dasmoto's Arts &amp; Crafts</h1> 
     <div>
       <h2 class="brushes">Brushes</h2
@@ -30,11 +29,10 @@
       <h2 class="paint">Paint</h2>
       <img src="painting bottles.jpeg" alt="pic of painting bottles">
       <h3>Clean Finnish Paint</h3>
-      <p>Imported paint from Finland.  Over 256 colors available in -store, varying in quantity (1 oz. to oz.).
+      <p>Imported paint from Finland.  Over 256 colors available in-store, varying in quantity (1 oz. to oz.).
         Clean Finnish paint microbinds to canvas, increaing the finish and longevity of any artwork.
         <span>Starting at $5.00 / tube.</span>
       </p>
     </div>
-
   </body>
 </html>
